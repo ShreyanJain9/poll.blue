@@ -1,0 +1,2 @@
+defmodule PollBlue do
+end
